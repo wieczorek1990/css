@@ -1,0 +1,25 @@
+.middle {
+  width: 400px;
+  height: 400px;
+}
+.center {
+  margin: 0 auto;
+}
+.box {
+  box-sizing: border-box;
+  background-color: black;
+}
+.hi {
+  height: 100px;
+  margin: 10px;
+}
+.left {
+  float: left;
+  width: 180px;
+  height: 180px;
+  box-sizing: border-box;
+  margin: 10px;
+}
+.clear-left {
+  clear: left;
+}

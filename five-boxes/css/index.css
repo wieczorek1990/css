@@ -1,0 +1,42 @@
+.box {
+  background-color: black;
+}
+.big {
+  width: 780px;
+  height: 300px;
+  margin: 10px;
+}
+.row {
+  clear: both;
+  overflow: hidden;
+}
+.small {
+  width: 180px;
+  height: 100px;
+  float: left;
+  margin: 10px;
+}
+.footer {
+  margin: 30px 10px 0 10px;
+  width: 780px;
+  height: 50px;
+}
+.header {
+  width: 780px;
+  height: 50px;
+  margin: 10px;
+}
+.tiny {
+  height: 40px;
+  width: 90px;
+  margin: 5px 0 5px 0;
+}
+.left {
+  float: left;
+}
+.right {
+  float: right;
+}
+.add-margin {
+  margin-right: 10px;
+}

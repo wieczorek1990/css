@@ -1,0 +1,29 @@
+ul {
+  margin: 0;
+  padding: 0;
+}
+li {
+  display: inline;
+  background-color: black;
+  color: white;
+  padding: 2px;
+  margin-right: 12px;
+}
+img {
+  float: right;
+  margin-left: 64px;
+  margin-right: 64px;
+}
+body {
+  width: 800px;
+}
+p {
+  font-weight: bold;
+}
+h2 {
+  background-color: black;
+  color: white;
+  display: inline-block;
+  margin-bottom: 24px;
+}
+

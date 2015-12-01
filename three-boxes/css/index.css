@@ -1,0 +1,43 @@
+.center-horizontally {
+  margin: auto auto;
+  width: 800px;
+}
+.box {
+  background-color: black;
+}
+
+.main {
+  width: 800px;
+  height: 600px;
+}
+.secondary {
+  width: 394px;
+  height: 300px;
+  float: left;
+  margin-top: 12px;
+}
+.header {
+  width: 800px;
+  height: 32px;
+  margin-bottom: 12px;
+  color: white;
+}
+#first {
+  margin-right: 6px;
+}
+#second {
+  margin-left: 6px;
+}
+.text {
+  float: left;
+  margin-left: 6px;
+}
+ul.list {
+  float: right;
+}
+ul.list li {
+  display: inline;
+  margin-left: 6px;
+  margin-right: 6px;
+}
+

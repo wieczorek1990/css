@@ -1,0 +1,31 @@
+body {
+  width: 256px;
+  margin: auto auto;
+}
+#phone {
+  background-color: lightgray;
+}
+#info {
+}
+#actions {
+  background-color: black;
+  width: 256px;
+  margin: auto auto;
+}
+#reject {
+  background-color: red;
+  float: left;
+}
+#accept {
+  background-color: green;
+  float: right;
+}
+#photo {
+  display: block;
+  margin: auto auto;
+}
+#name {
+  display: block;
+  text-align: center;
+}
+

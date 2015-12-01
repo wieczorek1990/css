@@ -1,0 +1,39 @@
+.row {
+  clear: both;
+}
+.logo {
+  background-color: black;
+  float: left;
+  width: 100px;
+  height: 25px;
+  color: white;
+  text-align: center;
+  line-height: 25px;
+}
+.top-menu {
+  height: 25px;
+  background-color: gray;
+  margin-left: 100px;
+}
+.left-menu {
+  float:left;
+  width: 100px;
+  min-height: 400px;
+  background-color: gray;
+}
+.content {
+  margin-left: 100px;
+  min-height: 400px;
+  background-color: white;
+}
+h2 {
+  margin: 0;
+  margin-bottom: 12px;
+}
+section {
+  max-width: 400px;
+  margin: 32px;
+}
+.clearfix {
+  overflow: auto;
+}

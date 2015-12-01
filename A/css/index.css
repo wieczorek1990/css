@@ -1,0 +1,42 @@
+a {
+  text-decoration: none;
+  color: black;
+}
+ul li {
+  display: inline;
+  margin: 0 12px 0 12px;
+  border: 1px solid black;
+  padding: 4px;
+  border-radius: 4px;
+}
+ul {
+  padding: 0;
+}
+.center {
+  margin: 0 auto;
+}
+.site {
+  width: 640px;
+}
+.nav {
+  width: 320px;
+  text-align: center;
+}
+.logo {
+  text-align: center;
+}
+section {
+  background-color: lightgray;
+  border-radius: 4px;
+}
+h2 {
+  display: inline-block;
+  border-radius: 2px;
+  margin-left: 32px;
+
+}
+p {
+  margin-left: 32px;
+  margin-right: 32px;
+  padding-bottom: 32px;
+}

@@ -1,0 +1,28 @@
+.header {
+  width: 720px;
+  height: 25px;
+  background-color: blue;
+}
+.button {
+/*  background-color: gray;*/
+  background: linear-gradient(lightgray, gray, lightgray);
+  text-align: center;
+  border-radius: 10px;
+  width: 100px;
+  float: right;
+}
+.text {
+  background-color: red;
+  float: left;
+}
+.long-text {
+  width: 720px;
+  background-color: green;
+  clear: both;
+}
+.vertical-center {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
